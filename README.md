@@ -2,8 +2,8 @@
 
 description here
 
-[Factions](https://notsopurevessel.github.io/TheNewSilenceWiki/FACTIONS) <br>
+[Factions](https://Anx137y.github.io/Land-of-Bound-Gods-Wiki/FACTIONS) <br>
 <br>
-[World Timeline](https://notsopurevessel.github.io/TheNewSilenceWiki/WORLDTIMELINE) <br>
+[World Timeline](https://Anx137y.github.io/Land-of-Bound-Gods-Wiki/WORLDTIMELINE) <br>
 <br>
 
