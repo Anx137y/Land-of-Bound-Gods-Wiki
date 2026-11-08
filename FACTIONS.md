@@ -78,5 +78,11 @@ The many unique factions and nations of Phanelar
 <a class="faction" style="--color:#986795" href="factions/dverganland"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a62d2b68-99a4-4c52-b361-c618e0a34ae5"/></div>
 <div class="faction-name">Konungsriki of Dvergenland</div></a>
 
+<a class="faction" style="--color:#986795" href="factions/frorbia"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/83630f5b-2b46-445a-b154-099abc471c1d" />
+</div><div class="faction-name">Rānae of Frorbia</div></a>
+
+<a class="faction" style="--color:#986795" href="factions/orovar"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a74d07cd-1860-4875-8167-9d106a01e720" />
+</div><div class="faction-name">Bibliarchy of Orovar</div></a>
+
   
 </div>
