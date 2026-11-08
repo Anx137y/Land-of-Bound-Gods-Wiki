@@ -22,7 +22,7 @@ title: Factions
     aspect-ratio: 1 / 1;
     padding: 0.9rem 0.6rem;
     background: var(--color);
-    color: #fff;
+    color: #000;
     text-decoration: none;
     text-align: center;
     border-radius: 12px;
