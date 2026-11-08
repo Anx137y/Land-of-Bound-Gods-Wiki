@@ -66,9 +66,9 @@ title: Factions
   .faction.former { filter: saturate(0.5) brightness(0.9); }
 </style>
 
-# Factions
+# Factions and Nations
 
-The various forces which call the Heartlands home, or have a vested interest in its events.
+The many unique factions and nations of Phanelar
 
 <div class="faction-grid">
 <a class="faction" style="--color:#00f0fc" href="factions/church-of-time"><div class="symbol">🔭</div><div class="faction-name">Church of Time</div></a>
