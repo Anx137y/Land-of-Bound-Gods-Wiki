@@ -71,6 +71,6 @@ title: Factions
 The many unique factions and nations of Phanelar
 
 <div class="faction-grid">
-<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/51c251ec-3eb1-4c47-a539-82e3ca2dcc13" />
+<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51c251ec-3eb1-4c47-a539-82e3ca2dcc13" />
 </div><div class="faction-name">The Kingdom of Sal Jotna</div></a>
 </div>
