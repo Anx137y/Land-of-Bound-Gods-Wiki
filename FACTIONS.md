@@ -71,6 +71,10 @@ title: Factions
 The many unique factions and nations of Phanelar
 
 <div class="faction-grid">
-<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51c251ec-3eb1-4c47-a539-82e3ca2dcc13" />
-</div><div class="faction-name">The Kingdom of Sal Jotna</div></a>
+<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51c251ec-3eb1-4c47-a539-82e3ca2dcc13"/></div><div class="faction-name">The Kingdom of Sal Jotna</div></a>
+<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/63f2a22d-9a68-4d62-9d22-228e50daf5b7" /></div><div class="faction-name">The Kingdom of Valhalk</div></a>
+<a class="faction" style="--color:#986795" href="factions/sal-jotna"><div class="symbol"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a62d2b68-99a4-4c52-b361-c618e0a34ae5" />
+<div class="faction-name">Konungsríki of Dvergenland</div></a>
+
+  
 </div>
