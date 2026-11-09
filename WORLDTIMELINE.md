@@ -219,6 +219,8 @@ A summarized record of recorded history, compiled from countless sources and rec
     <div class="details">The three gods placed these spirits in bodies of stone and clay, creating the giants</div>
     <div class="details">Phanes disapproved of the actions of his Children, and renounced Minerva's authority, casting her into the bowels of the Depths. A cavernous maw was left in her wake</div>
     <div class="details">Phanes placed Minerva's authority into an owl. This owl would be given the name Koios</div>
+  </div>
+  <div class="entry">
     <div class="label">The Little Age of Creation</div>
     <div class="details">Phanes created the Seraphim to ensure the gods would not disobey further instructions</div>
     <div class="details">Phanes placed Minerva's authority into an owl. This owl would be given the name Koios</div>
