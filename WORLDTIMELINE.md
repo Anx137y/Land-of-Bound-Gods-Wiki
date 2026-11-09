@@ -131,12 +131,16 @@ title: World Timeline
 
   /* Era colors – change these freely */
   .era-creation        { --era-color: #cc9f86; }
-  .era-conquest         { --era-color: #fc9c60; }
-  .era-abundance-1      { --era-color: #c6f6d5; } 
-  .era-hunt             { --era-color: #fefcbf; }
-  .era-abundance-2      { --era-color: #c6f6d5; }
-  .era-screams          { --era-color: #ff5959; }
-  .era-grey             { --era-color: #a8a8a8; }
+  .era-divinity         { --era-color: #f6f2c4; }
+  .era-myth      { --era-color: #6a359a; } 
+  .era-man-1             { --era-color: #c57573; }
+  .era-succession      { --era-color: #00c7c5; }
+  .era-lost          { --era-color: #6d6d6d; }
+  .era-man-2             { --era-color: #b54e4c; }
+  .era-fear             { --era-color: #5ba468; }
+  .era-seraphim-war             { --era-color: #ce75aa; }
+  .era-grand-empire             { --era-color: #ddcc22; }
+  .era-man-3             { --era-color: #a92124; }
 
   @media (max-width: 600px) {
     .entry { column-gap: 1.6rem; font-size: 0.9rem; }
@@ -180,7 +184,8 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="label">The Fourth Day</div>
     <div class="details">Phanes called the Continent forth from the sea and land</div>
     <div class="details">Phanes created the Sky Forge in the center of the Continent</div>
-    <div class="details">From the heavens, the land, and the sea, Phanes crafted bodies for himself, Ourea, and Pontus</div>
+    <div class="details">From the heavens, the land, and the sea, Phanes crafted bodies for himself, Ourea, and Pontus</div>Phanes created the Depths and the Clouds
+  <div class="details">Phanes created the Depths and the Clouds</div>
     <div class="details">Phanes created the First Divine Artefact in the Sky Forge, the Crown of Logos</div>
     <div class="details">Phanes distilled his authority into the Crown of Logos, and in doing so became able to inhabit his corporeal body, as well as exercise his authority, simultaneously </div>
 </div>
@@ -191,7 +196,8 @@ A summarized record of recorded history, compiled from countless sources and rec
     <div class="details">Phanes created Ephialtes and Etzel to watch over life and order respectively</div>
     <div class="details">Phanes created Wodan, Nyxos, and Set-Hyst to oversee the three aspects of death</div>
     <div class="details">Phanes created Dietrich, Ebisu, and Babalon to rule heroism, fortune, and love</div>
-    <div class="details">Phanes created Minerva to preside over wisdom</div>
+    <div class="details">Phanes created Minerva to preside over magic and wisdom</div>
+    <div class="details">Phanes created the World Flora to facilitate the circulation of magic through Phanelar</div>
 </div>
 
 <div class="entry">
@@ -203,34 +209,30 @@ A summarized record of recorded history, compiled from countless sources and rec
 
 </div>
 
-<div class="era era-conquest">
-  <div class="era-title">Age of Conquest<span class="era-dates">Year 0 - Year 34</span></div>  
+<div class="era era-divinity">
+  <div class="era-title">Era of Divinity<span class="era-dates">When the Gods walked freely</span></div>
+  
   <div class="entry">
-  <div class="label">Year 0</div>
-    <div class="details">A hobbit named Barrabas Kane sets out to unite the scattered fiefdoms in the plains.</div>
-    <div class="details">He declares himself first king, and names the plains under his control Donfair.</div>
+    <div class="label">The Age of The Divine</div>
+    <div class="details">The newborn gods lived for a time in peace, each presiding over their domain</div>
+    <div class="details">Ephialtes, Etzel, and Minerva combined their powers to create the first spirits</div>
+    <div class="details">The three gods placed these spirits in bodies of stone and clay, creating the giants</div>
+    <div class="details">Phanes disapproved of the actions of his Children, and renounced Minerva's authority, casting her into the bowels of the Depths. A cavernous maw was left in her wake</div>
+    <div class="details">Phanes placed Minerva's authority into an owl. This owl would be given the name Koios</div>
+    <div class="label">The Little Age of Creation</div>
+    <div class="details">Phanes created the Seraphim to ensure the gods would not disobey further instructions</div>
+    <div class="details">Phanes placed Minerva's authority into an owl. This owl would be given the name Koios</div>
+    <div class="details">Phanes created humans, and allowed his children to create beings of similar stature</div>
+    <div class="details">Phanes, wary of the power held by his children and the heavens through which he had long ago journeys, tasked Ilmola to create the Lintukoto, a barrier to separate the Center from the heavens </div>
   </div>
+  
+</div>
 
+<div class="era era-myth">
+  <div class="era-title">Era of Myth<span class="era-dates">The times of mythologies</span></div>
   <div class="entry">
-  <div class="label">Year 8</div>
-    <div class="details">Dissenters to Barrabas’ unification efforts rise up against him.</div>
-    <div class="details">They are defeated and mostly executed, those who escape flee to Endormir and group up with Dwarven separatists.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 9</div>
-    <div class="details">In pursuit of the rebels, the short-lived species of Donfair make contact with the Dwarves for the first time.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 11</div>
-    <div class="details">After years of negotiation, Endormir and Donfair set out to unite their kingdoms and destroy all opposition.</div>
-    <div class="details">It is said as the conquest march began, Theos watched in silence and Ogrimmal wept.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 34</div>
-    <div class="details">The conquest is made complete. Barrabas Kane and the current Dwarven queen agree to pardon all dissenters who submit to their rule. Those who agree go on to found Hell’s Kitchen and the Rothold.</div>
+  <div class="label">Human Mythology</div>
+    <div class="details">Phanes and Ephialtes together created the first life: the Unfired</div>
   </div>
 </div>
 
