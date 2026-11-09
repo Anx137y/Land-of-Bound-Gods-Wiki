@@ -130,7 +130,7 @@ title: World Timeline
   }
 
   /* Era colors – change these freely */
-  .era-mythology        { --era-color: #e9d8fd; }
+  .era-creation        { --era-color: #cc9f86; }
   .era-conquest         { --era-color: #fc9c60; }
   .era-abundance-1      { --era-color: #c6f6d5; } 
   .era-hunt             { --era-color: #fefcbf; }
@@ -170,13 +170,37 @@ A summarized record of recorded history, compiled from countless sources and rec
 </div>
 
 <div class="entry">
-  <div class="label">Fell Mythology</div>
-    <div class="details">Before all things, there was only the Silence, out of which the planes of existence were born.</div>
-    <div class="details">There are those who would wish to return all of existence to that Silence.</div>
-    <div class="details">Theos taught the Dwarven people to understand their origins.</div>
-    <div class="details">The Fell Serpent, God of Silence, arose from this wish to undo all that has been done.</div>
-    <div class="details">Those touched by feel blood and their descendants become Tieflings.</div>
+  <div class="label">The Third Day</div>
+    <div class="details">Phanes created Pontus and Ourea, the first gods</div>
+    <div class="details">Ourea gifted Phanelar the land, and so space was ordered</div>
+    <div class="details">Pontus gifted Phanelar the sea, and so time was ordered</div>
 </div>
+
+<div class="entry">
+  <div class="label">The Fourth Day</div>
+    <div class="details">Phanes called the Continent forth from the sea and land</div>
+    <div class="details">Phanes created the Sky Forge in the center of the Continent</div>
+    <div class="details">From the heavens, the land, and the sea, Phanes crafted bodies for himself, Ourea, and Pontus</div>
+    <div class="details">Phanes created the First Divine Artefact in the Sky Forge, the Crown of Logos</div>
+    <div class="details">Phanes distilled his authority into the Crown of Logos, and in doing so became able to inhabit his corporeal body, as well as exercise his authority, simultaneously </div>
+</div>
+
+<div class="entry">
+  <div class="label">The Fifth Day</div>
+    <div class="details">Phanes created Ilmola to govern the sky, and run the Sky Forge</div>
+    <div class="details">Phanes created Ephialtes and Etzel to watch over life and order respectively</div>
+    <div class="details">Phanes created Wodan, Nyxos, and Set-Hyst to oversee the three aspects of death</div>
+    <div class="details">Phanes created Dietrich, Ebisu, and Babalon to rule heroism, fortune, and love</div>
+    <div class="details">Phanes created Minerva to preside over wisdom</div>
+</div>
+
+<div class="entry">
+  <div class="label">The Sixth Day</div>
+    <div class="details">Phanes and Ephialtes together created the first life: the Unfired</div>
+    <div class="details">Phanes placed the newborn gods and their authorities inside the Unfired, and so all the gods were anchored to Phanelar</div>
+    <div class="details">Ephialtes was tasked with creating new life, and so flora and fauna were called forth, and they flowed over Phanelar in abundance</div>
+</div>
+
 </div>
 
 <div class="era era-conquest">
