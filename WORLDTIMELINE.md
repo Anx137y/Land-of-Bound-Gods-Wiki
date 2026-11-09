@@ -184,7 +184,7 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="label">The Fourth Day</div>
     <div class="details">Phanes called the Continent forth from the sea and land</div>
     <div class="details">Phanes created the Sky Forge in the center of the Continent</div>
-    <div class="details">From the heavens, the land, and the sea, Phanes crafted bodies for himself, Ourea, and Pontus</div>Phanes created the Depths and the Clouds
+    <div class="details">From the heavens, the land, and the sea, Phanes crafted bodies for himself, Ourea, and Pontus</div>
   <div class="details">Phanes created the Depths and the Clouds</div>
     <div class="details">Phanes created the First Divine Artefact in the Sky Forge, the Crown of Logos</div>
     <div class="details">Phanes distilled his authority into the Crown of Logos, and in doing so became able to inhabit his corporeal body, as well as exercise his authority, simultaneously </div>
