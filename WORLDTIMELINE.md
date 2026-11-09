@@ -149,7 +149,7 @@ title: World Timeline
 </style>
 
 # Timeline
-A summarized record of recorded history, compiled from countless sources and recorded in the Orotheca and other libaries.
+A summarized record of recorded history, compiled from countless sources and recorded in the Orotheca and other libaries. Dates are demarcated in the common Eruption centered calendar, suffixes BE and AE for Before and After Eruption.
 
 <div class="timeline">
 
@@ -262,187 +262,103 @@ A summarized record of recorded history, compiled from countless sources and rec
   
 </div>
 
-<div class="era era-abundance-1">
-  <div class="era-title">First Age of Abundance<span class="era-dates">Year 34 - Year 229</span></div>  
 
+<div class="era era-man-1">
+  <div class="era-title">First Era of Man<span class="era-dates">15000 to 11000 BE</span></div>
+  
   <div class="entry">
-  <div class="label">Year 34</div>
-    <div class="details">The conquest of Garnus and Donfair comes to an ends.</div>
+    <div class="label">15000 BE</div>
+    <div class="details">Kingdoms of men began appearing across the Continent</div>
   </div>
-
+  
   <div class="entry">
-  <div class="label">Year 130</div>
-    <div class="details">On the epoch of his 14th decade in rule, Barrabas Kane passes away and leaves his eldest child to be king, founding the first royal family of Donfair.</div>
-    <div class="details">His rule after the great conquest is remembered as a time of unprecedented peace.</div>
+    <div class="label">13500 BE</div>
+    <div class="details">Humans harnessed the power of magic and spread to the far corners of the Continent</div>
   </div>
-
+  
   <div class="entry">
-  <div class="label">Year 144</div>
-    <div class="details">A gnome named Galliard Timbers sacrifices his many centuries of life to receive revelations from Theos.</div>
-    <div class="details">He becomes known as the first Artificer.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 162</div>
-    <div class="details">Thanks to leaps in technology, sea travel has become more safe.</div>
-    <div class="details">Official studies of the arcane arts have begun.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 179</div>
-    <div class="details">A wizard makes first recorded contact with another plane of existence, one even older than the Heartlands, and succumbs to madness. This wizard becomes the first warlock, a demigod of Silence now known as the Ferryman.</div>
-    <div class="details">This place is dubbed the Silent Plane, the Shadowfell.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 183</div>
-    <div class="details">First contact is made between Fae creatures and the rest of the world.</div>
-    <div class="details">There are several border incidents, but eventually a truce that isolates the Faefall forest is made.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 225</div>
-    <div class="details">Galliard Timbers receives a final revelation from Theos on his deathbed.</div>
-    <div class="details">He uses the information in this revelation to draft a prototype invention and dubs it the Warforged, entrusting a piece of the blueprint to several lords in Donfair and Endormir.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 229</div>
-    <div class="details">A Hobgoblin child receives a revelation from Theos.</div>
+    <div class="label">11300 BE</div>
+    <div class="details">The first Form Manifestation is discovered</div>
   </div>
 </div>
 
-<div class="era era-hunt">
-  <div class="era-title">Age of the Hunt<span class="era-dates">Year 229 - Year 259</span></div>  
-
+<div class="era era-succession">
+  <div class="era-title">The War of Succession<span class="era-dates">11000 BE to 10448 BE</span></div>
   <div class="entry">
-  <div class="label">Year 229</div>
-    <div class="details">A hobgoblin child receives a revelation from Theos, a vision of the world in flames and dragons overhead.</div>
-    <div class="details">That night, a dragon descends upon Faefall and scorches much of it.</div>
-    <div class="details">For the first time, the elven council of Dewhelm willingly reaches out to the rest of the world for aid.</div>
+    <div class="label">11000 BE</div>
+    <div class="details">Ephialtes tricks Ilmola into creating three sets of Binding Chains</div>
   </div>
 
   <div class="entry">
-  <div class="label">Year 230</div>
-    <div class="details">A gnome named Galliard Timbers sacrifices his many centuries of life to receive revelations from Theos.</div>
-    <div class="details">He becomes known as the first Artificer.</div>
+    <div class="label">10950 BE</div>
+    <div class="details">Ephialtes creates dragons. He then convinces the Seraphim to silently betray Phanes</div>
   </div>
 
   <div class="entry">
-  <div class="label">Year 230</div>
-    <div class="details">A pact is made across all nations to hunt the dragons to extinction.</div>
+    <div class="label">10900 BE</div>
+    <div class="details">Ephialtes ambushes Ourea and Pontus, shackling them with the Binding Chains</div>
+    <div class="details">Ephialtes marches on Phanes' domain at the Eye of The World</div>
+    <div class="details">Ephialtes demands fealty from the gods, and releases a massive army of dragons on the entire world</div>
   </div>
 
   <div class="entry">
-  <div class="label">Year 234</div>
-    <div class="details">The first Warforged are birthed to fight the Dragons, with an urge to hunt and slay them programmed into them at the kernel level.</div>
+    <div class="label">10899 BE</div>
+    <div class="details">Ephialtes demands fealty from the gods</div>
+    <div class="details">Ephialtes releases a massive army of dragons on Phanelar</div>
+    <div class="details">Some gods yield to Ephialtes, while some side with Phanes.</div>
   </div>
 
   <div class="entry">
-  <div class="label">Year 259</div>
-    <div class="details">The hunt is declared a victory, with the revelation of the world in flames averted.</div>
-    <div class="details">Dragons who cooperated are granted amnesty and mostly retreat to hidden lairs, although some integrate into society and dragonborn become somewhat commonplace.</div>
-    <div class="details">Connection and cooperation between nations, races, and cultures in the Heartlands reaches an all-time high.</div>
+    <div class="label">10890 BE</div>
+    <div class="details">The dragon armies pour down upon human civilization</div>
   </div>
+
+  <div class="entry">
+    <div class="label">10800 BE</div>
+    <div class="details">The gods continue to battle each other, as Ephialtes uses Pontus and Ourea as shields to stop Phanes from destroying him</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">10700 BE</div>
+    <div class="details">The dragons wipe the Continent clean of all human civilization, save for small pockets of survivors</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">10600 BE</div>
+    <div class="details">Ephialtes forces Pontus to raise the sea levels, separating the Continent into three sections</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">10500 BE</div>
+    <div class="details">Phanes faces Ephialtes personally, determined to end his son's rampage</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">10450 BE</div>
+    <div class="details">Phanes and Ephialtes do battle, however the Seraphim ambush Phanes and rip the Crown of Logos from his head</div>
+    <div class="details">Ephialtes dons the Crown of Logos and wills the creation of a perfect body for himself, which he then enters</div>
+    <div class="details">Using the Crown, Ephialtes attempts to hijack the power of life and death from Phanes</div>
+    <div class="details">Ilmola and Koios are able to steal the crown from Ephialtes and flee south</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">10448 BE</div>
+    <div class="details">Ephialtes and Phanes clash as Ephialtes pursues Ilmola and Koios</div>
+    <div class="details">Seeing no other option left, Phanes surges ahead of his son and dons the Crown for a final time</div>
+    <div class="details">Phanes wills the Crown to shatter into pieces, and so it does. With the Crown's authority shattered, Phanes turns to deal with his rebellious son</div>
+    <div class="details">Phanes then uses the final set of Binding Chains to seal Ephialtes to the ground</div>
+    <div class="details">Ourea covers Ephialtes in many mountains</div>
+  </div>
+  
 </div>
 
-<div class="era era-abundance-2">
-  <div class="era-title">Second Age of Abundance<span class="era-dates">Year 259 - Year 337</span></div>  
+<div class="era era-divinity">
+  <div class="era-title">  <span class="era-dates">  </span></div>
   <div class="entry">
-  <div class="label">Year 259</div>
-    <div class="details">The struggle against Dragons is declared over.</div>
+    <div class="label">  </div>
+    <div class="details">  </div>
+  </div>
   </div>
 
-  <div class="entry">
-  <div class="label">Year 263</div>
-    <div class="details">Reconstruction in the wake of the Draconic Hunt reaches an end, and society begins advancing beyond where they were the hunt began.</div>
-    <div class="details">Cultural diaspora and intermingling reaches even Dewhelm, including the religion of Theos.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 264</div>
-    <div class="details">For the first time, Non-Fae creatures witness the descent of Ogrimmal in Dewhelm’s annual summer solstice festival.</div>
-    <div class="details">The college of Umbrage is established to bridge Faefall and Donfair.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 277</div>
-    <div class="details">The Arcane Arts and Artificing have become part of everyday life in the world.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 293</div>
-    <div class="details">In the timeless wastes, a dwarf follower of Ogrimmal creates the Jerboas, a species capable of surviving in the Dunes of Steel.</div>
-    <div class="details">This draws the attention of Orimmal, and the dwarf becomes a demigod of life now known as Papa Sand.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 317</div>
-    <div class="details">Trade Routes between kingdoms are now well established, and teleportation magic is being put into place.</div>
-    <div class="details">The first splintered tavern is built and is overseen by Papa Sand.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 337</div>
-    <div class="details">The High Council of the elves convenes to determine whether the faith of Theos should be allowed into their doctrine.</div>
-  </div>
-</div>
-
-<div class="era era-screams">
-  <div class="era-title">Century of Screams<span class="era-dates">Year 337 - Year 423</span></div>  
-
-  <div class="entry">
-  <div class="label">Year 337</div>
-    <div class="details">The High Council of the elves is slaughtered in their own meeting chamber.</div>
-    <div class="details">A war breaks out between the penitents of time and life over the slaughter.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 421</div>
-    <div class="details">The Fell Serpent descends upon the heartlands, ending the war and beginning the Infernal Battle.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 422</div>
-    <div class="details">The royal family of Donfair is overturned by the mercenary Rowl.</div>
-    <div class="details">He is an ingenious general and steps up as the leader the world needs, but is simultaneously unstable and takes many concubines.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 423</div>
-    <div class="details">The Fell serpent is finally slain on the west coast, and the Century of Screams comes to a close.</div>
-  </div>
-</div>
-
-<div class="era era-grey">
-  <div class="era-title">Age of the Grey<span class="era-dates">Year 423 - Year 450</span></div>  
-  <div class="entry">
-  <div class="label">Year 423</div>
-    <div class="details">The Fell serpent is finally slain, marking the end Century of Screams.</div>
-    <div class="details">Those touched by the serpent’s blood either by physically or by descendance were irreversibly and became Tieflings. The city of Pintor on the west coast is most deeply affected, and becomes known as Hell's Kitchen.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 425</div>
-    <div class="details">Hidden within Donfair the Concubine Wars break out between Rowl’s children and their mothers, all vying to become his legitimate heir.</div>
-    <div class="details">Most of Rowl’s children are killed in the invisible conflict, Gaius and Flora survive.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 428</div>
-    <div class="details">Rowl is assassinated by his living children and concubines.</div>
-    <div class="details">The Court of Princes is formed from Rowl's survivng children and becomes the new ruling body of Donfair. They initiate a search for any other living heirs.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 449</div>
-    <div class="details">A second continent is discovered by a small expedition team, dubbed the New World.</div>
-  </div>
-
-  <div class="entry">
-  <div class="label">Year 450</div>
-    <div class="details">An order was sent out by both churches to assemble a new pilgrim force to explore this new world.</div>
-  </div>
-</div>
-
-</div>
+  
+</div> 
