@@ -352,6 +352,171 @@ A summarized record of recorded history, compiled from countless sources and rec
   
 </div>
 
+<div class="era era-lost">
+  <div class="era-title">The Lost Millenia<span class="era-dates">10448 BE to 4000 BE</span></div>
+  <div class="entry">
+    <div class="details">The traitorous gods are punished</div>
+  </div>
+
+  <div class="entry">
+    <div class="details">The dragon army is hunted to near extinction</div>
+  </div>
+  
+  <div class="entry">
+    <div class="details">Humans across Phanelar emerge from hiding and establish new primitive hunter-gatherer civilizations</div>
+  </div>
+  </div>
+
+<div class="era era-man-2">
+  <div class="era-title">Second Era of Man<span class="era-dates">4000 BE to 2650 BE</span></div>
+  <div class="entry">
+    <div class="label">4000 BE</div>
+    <div class="details">The city-state of Othrys is established in the foothills of Mt. Othrys</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3765 BE</div>
+    <div class="details">The city of Ranshal is founded on the coast of the Settan Desert</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3560 BE</div>
+    <div class="details">Othryan explorers discover Hades' Maw in northwest Koktos</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3498 BE</div>
+    <div class="details">The Greman culture group in Phanehold establish early worship practices of various deities</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3460 BE</div>
+    <div class="details">The Gith civil war begins</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3333 BE</div>
+    <div class="details">The city of Babalonica is established on worship practices of Babalon. The city implements a government based on sexual competition</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3320 BE</div>
+    <div class="details">Greman tribes in the Orani forest region form a multi-clan alliance to face Ranshal invaders from the east</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3316 BE</div>
+    <div class="details">Followers of Wodan establish the Kingdom of Valhalk</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3300 BE</div>
+    <div class="details">Greman tribes in the Heim Basin found the Kingdom of the Heim</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3260 BE</div>
+    <div class="details">The Kenku warlord Odanaga begins the process of uniting Irihin's disparate tribes and cultures</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3255 BE</div>
+    <div class="details">An internal civil conflict leads to the fall of Othrys, with the polis itself reduced to little more than rubble</div>
+    <div class="details">The Othryan people emigrate from their homeland</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3250 BE</div>
+    <div class="details">The two factions from Othrys found the city-states of Aria and Parthenos respectively</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3210 BE</div>
+    <div class="details">The Paxon culture group in Ourean found the twin kingdoms of Estcher and Brital</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3200 BE</div>
+    <div class="details">The Tepa culture group in Ourean founds the Kingdome of Espatcha on the slopes of Mt. Tepantli</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3150 BE</div>
+    <div class="details">Parthenos begins spreading its influence across the many small polis in the Mycea Archipelago</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3120 BE</div>
+    <div class="details">The Odanaga period ends in Irihin with the murder of the Emperor during a large scale slave revolt</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">3115 BE</div>
+    <div class="details">The two hundred year long conflict between the Orani tribes and Ranshal ends with a mutual alliance and the establishment of the Kingdom of Orani</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">3100 BE</div>
+    <div class="details">The elven villages surrounding the World Tree combine to form the great elven city of Sulgarde</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">3097 BE</div>
+    <div class="details">The Kingdom of the Heim's expanded influence leads to a two-front conflict against kingdoms situated near Lake Fritz and Agnes respectively</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">3090 BE</div>
+    <div class="details">Multiple tribes in the Red Forest flee south across the Sea of Phanes to avoid conquest by the Kingdome of the Heim</div>
+    <div class="details">The refugee tribes from the Red Forest establish the Kingdom of Patrie on the southern shore of the Sea of Phanes</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">3000 BE</div>
+    <div class="details">The Kingdom of the Hiem overextends its reach past Fjell Oglagnyr</div>
+    <div class="details">The Kingdom of the Heim collapses from internal rebellions</div>
+    <div class="details">The fractured states that had constituted the Kingdom of the Heim begin a long period of regular land wars, with territory trading hands frequently</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">2780 BE</div>
+    <div class="details">Parthenos's expanded borders reach Babalonica, and the two states begin warring</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">2760 BE</div>
+    <div class="details">The Golden Land's slow expansion reaches the borders of the polis of Aria</div>
+    <div class="details">Intitial fighting between Aria and the Golden Land lasts two months, before Aria joins the Golden Land as a vassal state
+  </div>
+  
+  <div class="entry">
+    <div class="label">2757 BE</div>
+    <div class="details">Babalonica pushes Parthenos off their island, and proceed to liberate Parthenos' holdings in the Mycea Archipelago</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">2740 BE</div>
+    <div class="details">The island of Optila establishes the Empire of Optila</div>
+    <div class="details">The Empire of Optila conquer the Nine Isles in the Central Sea
+  </div>
+  
+  <div class="entry">
+    <div class="label">2690 BE</div>
+    <div class="details">Irihin unites under the Bugbear Emperor Hiro, who enacts an isolationist policy and cuts the island off from the outside world with a powerful spell</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">2650 BE</div>
+    <div class="details">A wing of dragons resurfaces in the Great Desert</div>
+    <div class="details">The dragon wing decimates the Kingdom of Espatcha, alongside every other established community in the Great Desert
+  </div>
+  
+  
+  
+  
+  </div>
+
+
 <div class="era era-divinity">
   <div class="era-title">  <span class="era-dates">  </span></div>
   <div class="entry">
