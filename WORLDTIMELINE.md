@@ -145,7 +145,7 @@ title: World Timeline
 </style>
 
 # Timeline
-A summarized record of recorded history, compiled from countless sources and recorded in the Orotheca, and other libaries.
+A summarized record of recorded history, compiled from countless sources and recorded in the Orotheca and other libaries.
 
 <div class="timeline">
 
