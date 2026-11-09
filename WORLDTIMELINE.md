@@ -145,35 +145,28 @@ title: World Timeline
 </style>
 
 # Timeline
-An overview of Heartlands history, compiled by the Keep of Time.
+A summarized record of recorded history, compiled from countless sources and recorded in the Orotheca, and other libaries.
 
 <div class="timeline">
 
-<div class="era era-mythology">
-<div class="era-title">Age of Mythology<span class="era-dates"> The time before recorded history, detailing the fabled origin of lands and peoples </span></div>
+<div class="era era-creation">
+<div class="era-title">Era of Creation<span class="era-dates"> Prehistory, known only from the brave few who have asked Phanes directly </span></div>
+  
 <div class="entry">
-  <div class="label">Fae Mythology</div>
-    <div class="details">It is said the Fae were among the first beings to evolve to the state we know them in now.</div>
-    <div class="details">Among these immortal eldritch Fae, Ogrimmal ascended to godhood.</div>
-    <div class="details">He and his kin departed the Heartlands to the Feywild to allow other life in the Heartlands to grow naturally and outside their influence for as long as possible.</div>
-    <div class="details">Eventually one of Ogrimmal’s own kin named Vishkaz challenged him for his divine throne</div>
-    <div class="details">The corpse of this usurper Fae fell to the earth, its blood mixing with Ogrimmal’s own blood and tears, from which sprouted Faefall.</div>
-    <div class="details">Ogrimmal guided the life that was born there, and thus the first mortal Fae including elves and hobgoblins were born.</div>
+  <div class="label">The Beginning</div>
+    <div class="details">Phanes began in the Center</div>
 </div>
 
 <div class="entry">
-  <div class="label">Dwarven Mythology</div>
-    <div class="details">The earth itself trembled and gave birth to life, the dwarves.</div>
-    <div class="details">This life was guided by the hand of Ogrimmal, who acted as a foster father to the dwarven people.</div>
-    <div class="details">Theos taught the Dwarven people to understand their origins.</div>
-    <div class="details">These children of three immortal parents revere the Earth most of all, but are also artisans and engineers.</div>
-    <div class="details">They believe everything taken from the earth must be treated with respect, and work in their forges to fashion into the most beautiful, powerful shape possible.</div>
+  <div class="label">The First Day</div>
+    <div class="details">Phanes spoke light into existence. With the first light came space for light to travel in, and time for light to travel through</div>
+    <div class="details">Phanes spoke the heavens into existence, in all their divine glory</div>
 </div>
 
 <div class="entry">
-  <div class="label">Draconic Mythology</div>
-    <div class="details">The lore of the dragons and dragonborn are a closely guarded secret even among their own race.</div>
-    <div class="details">They swear fealty to no order in the Heartlands divine or otherwise, serving only their personal desires.</div>
+  <div class="label">The Second Day</div>
+    <div class="details">Phanes journeyed the width and breadth of His heavens</div>
+    <div class="details">Phanes returned to the Center, and there he spoke Phanelar into being</div>
 </div>
 
 <div class="entry">
