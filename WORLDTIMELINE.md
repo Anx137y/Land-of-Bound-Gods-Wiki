@@ -486,7 +486,7 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="entry">
     <div class="label">2760 BE</div>
     <div class="details">The Golden Land's slow expansion reaches the borders of the polis of Aria</div>
-    <div class="details">Intitial fighting between Aria and the Golden Land lasts two months, before Aria joins the Golden Land as a vassal state
+    <div class="details">Intitial fighting between Aria and the Golden Land lasts two months, before Aria joins the Golden Land as a vassal state</div>
   </div>
   
   <div class="entry">
@@ -497,7 +497,7 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="entry">
     <div class="label">2740 BE</div>
     <div class="details">The island of Optila establishes the Empire of Optila</div>
-    <div class="details">The Empire of Optila conquer the Nine Isles in the Central Sea
+    <div class="details">The Empire of Optila conquer the Nine Isles in the Central Sea</div>
   </div>
   
   <div class="entry">
@@ -508,7 +508,7 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="entry">
     <div class="label">2650 BE</div>
     <div class="details">A wing of dragons resurfaces in the Great Desert</div>
-    <div class="details">The dragon wing decimates the Kingdom of Espatcha, alongside every other established community in the Great Desert
+    <div class="details">The dragon wing decimates the Kingdom of Espatcha, alongside every other established community in the Great Desert</div>
   </div>
   
   
