@@ -347,7 +347,7 @@ A summarized record of recorded history, compiled from countless sources and rec
     <div class="details">Seeing no other option left, Phanes surges ahead of his son and dons the Crown for a final time</div>
     <div class="details">Phanes wills the Crown to shatter into pieces, and so it does. With the Crown's authority shattered, Phanes turns to deal with his rebellious son</div>
     <div class="details">Phanes then uses the final set of Binding Chains to seal Ephialtes to the ground</div>
-    <div class="details">Ourea covers Ephialtes in a mountain range</div>
+    <div class="details">Ourea, even with his influence diminished, covers Ephialtes in a mountain range</div>
   </div>
   
 </div>
