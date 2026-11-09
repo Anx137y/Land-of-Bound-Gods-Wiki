@@ -223,7 +223,6 @@ A summarized record of recorded history, compiled from countless sources and rec
   <div class="entry">
     <div class="label">The Little Age of Creation</div>
     <div class="details">Phanes created the Seraphim to ensure the gods would not disobey further instructions</div>
-    <div class="details">Phanes placed Minerva's authority into an owl. This owl would be given the name Koios</div>
     <div class="details">Phanes created humans, and allowed his children to create beings of similar stature</div>
     <div class="details">Phanes, wary of the power held by his children and the heavens through which he had long ago journeys, tasked Ilmola to create the Lintukoto, a barrier to separate the Center from the heavens </div>
   </div>
@@ -232,10 +231,35 @@ A summarized record of recorded history, compiled from countless sources and rec
 
 <div class="era era-myth">
   <div class="era-title">Era of Myth<span class="era-dates">The times of mythologies</span></div>
+  
   <div class="entry">
   <div class="label">Human Mythology</div>
-    <div class="details">Phanes and Ephialtes together created the first life: the Unfired</div>
+    <div class="details">Humans came into being as the first mortals on the island of Eden, it's steep cliffs overlooking a vast sea</div>
+    <div class="details">The many gods vied for control over the humans, and though some would follow others, most chose to follow Phanes</div>
+    <div class="details">One day, a human named Madave was gifted fire by Phanes</div>
+    <div class="details">Madave used this fire to walk the caves beneath the island. He and his cohort followed the flame until they emerged into a pristine land, far from Eden</div>
   </div>
+
+  <div class="entry">
+  <div class="label">Firbolg Mythology</div>
+    <div class="details">The third of three giants was Seppo Sampo. Seppo Sampo was a curious giant who found himself pulled to the both, while his brothers traveled south</div>
+    <div class="details">Seppo Sampo found a bowl in the earth, Lehmien Koti. Inside the bowl was a herd of wild cattle. On the edges of the bowl was a pack of wolves</div>
+    <div class="details">Unlike his brothers, Seppo Sampo was not strong, however he was cunning and wise</div>
+    <div class="details">Seppo Sampo asked the wolves why they howled, to which the wolves replied "We hunger". Seppo Sampo then asked the wolves "Can you wait to eat", and they replied "No". Seppo Sampo then asked "Would you rather eat these cows now, and then starve, or would you follow me to a place where you will never starve?" The wolves conversed, before following Seppo Sampo</div>
+    <div class="details">Seppo Sampo took the wolves to a nearby river. In the river, salmon leaped. He said, "Look here, all the meat you will need"</div>
+    <div class="details">The wolves ate the salmon, and became the first bears</div>
+    <div class="details">The god Ilmola looked down from on high, and saw Seppo Sampo's will and kindness. She granted Seppo Sampo a small portion of her authority, crowning him as an Ophanim</div>
+    <div class="details">The cows Seppo Sampo had protected came to love him, and through their worship they became the Firbolg</div>
+  </div>
+
+  <div class="entry">
+  <div class="label">Genasi Mythology</div>
+    <div class="details">Pontus had long watched her siblings from her seas, and had decided that she would experience life on the land</div>
+    <div class="details">Pontus surfaced at the mouth of a long river, and traveled north. Eventually she found herself on the edge of a rolling field, with a large plateau in the distance</div>
+    <div class="details">She could not bring herself to step out of the waters, though she longed to see what lay across the horizon</div>
+    <div class="details">In her sorrow, she shed four tears. These tears struck the land before her in succession, and birthed the first Water, Air, Fire, and Earth Genasi</div>
+  </div>
+  
 </div>
 
 <div class="era era-abundance-1">
