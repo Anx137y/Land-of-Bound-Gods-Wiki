@@ -551,6 +551,134 @@ A summarized record of recorded history, compiled from countless sources and rec
   </div>
 
   
+<div class="era era-seraphim-war">
+  <div class="era-title">The Seraphim's War<span class="era-dates">1080 BE to 760 BE</span></div>
+  <div class="entry">
+    <div class="label">1080 BE</div>
+    <div class="details">The nation of Valhalk pushes into the ancestral lands of the Goliaths</div>
+    <div class="details">The Goliaths call on their guardian deity, the Seraphim Raphael, to protect them</div>
+    <div class="details">Raphael dispatches an army of giants from Sal Jotna</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">1070 BE</div>
+    <div class="details">The army of giants begins pushing Valhalk out of the Goliath's homeland. This causes Valhalk to evacuate north as the giants continue into the city of Eingenvar</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">1060 BE</div>
+    <div class="details">Valhalk conquers Fjell Ensom and Fjell Oglagynr, relocating their capital to the valley between the two mountain ranged</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">1032 BE</div>
+    <div class="details">The giant army crosses the Phanehold Tundra and reaches the borders of Patrie</div>
+    <div class="details">The giant army dissolves into stone and clay at the border of Patrie</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">1030 BE</div>
+    <div class="details">The Kingdom of Patrie, frightened by the unexpected approach, decided to commit to action to retake their ancestral homeland in the Red Forest and Red River delta</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">1028 BE</div>
+    <div class="details">The Patrie Royal Navy lays seige to a city at the mouth of the Red River. The fall of that city triggered a system of alliances that pressured kingdoms and dukedoms across the Greman region to combat Patrie</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">1000 BE</div>
+    <div class="details">The Kingdom of Orangi devolves into civil war over disagreements in the upper government about participation in the campaign against Patrie</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">990 BE</div>
+    <div class="details">Ranshal invades Orangi's easter border, taking advantage of the continuing civil war</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">975 BE</div>
+    <div class="details">The Empire of Optila backs the interventionist faction in Orangi</div>
+    <div class="details">The Empire of Optila conquers the Svalhalli Peninsula</div>
+    <div class="details">The Empire of Optila enters combat alongside the interventionist faction in the Orangi civil war</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">970 BE</div>
+    <div class="details">The Empire of Optila and the interventionist faction prevail, reclaiming control of the Orangi forest, as well as gaining control of Aponshal and the Wildi archipelago</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">960 BE</div>
+    <div class="details">The Empire of Optila and Orangi join in the campaign to push Patrie out of the Red Forest region</div>
+    <div class="details">The Empire of Optila sets up battles in a way to ensure the weakening of the Greman kingdoms and dukedoms</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">950 BE</div>
+    <div class="details">Patrie is pushed out of the Red Forest region</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">945 BE</div>
+    <div class="details">The Empire of Optila launches a campaign to invade the Heim Basin and the rest of the Gremen region</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">920 BE</div>
+    <div class="details">The Empire of Optila successfully conquers the Heim Basin and the Gremen Region</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">910 BE</div>
+    <div class="details">The Empire of Optila conquers the island of Vinnestar and continues west into Koktos</div>
+    <div class="details">The Empire of Optila's scouts encounter the border of the Golden Land, who had quietly expanded to control the eastern coast of Koktos north of Mt. Othrys</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">900 BE</div>
+    <div class="details">The Optilan Imperial Army pushed the Golden Army back to the Gulf of Hanektos</div>
+    <div class="details">The Imperial Army occupies the city-state of Aria</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">880 BE</div>
+    <div class="details">The city-state of Aria joins the Empire of Optila as a vassal state</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">860 BE</div>
+    <div class="details">The Kingdom of Orangi joins the Empire of Optila as a vassal state</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">850 BE</div>
+    <div class="details">Githzerai refugees from the continuing conflict in the Gith Peninsula construct a community around ancient ruins on the Jerana Peninsula</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">840 BE</div>
+    <div class="details">The Githzerai refugees reactive The Cradle, an ancient facility that produces Warforged</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">820 BE</div>
+    <div class="details">The Empire of Optila learns of the Cradle, and sens a naval group to conquer the area</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">790 BE</div>
+    <div class="details">The Empire of Optila deploys its newly acquired Warforged army onto Koktos, conquering Parthenos and sweeping across the entire island. The only spared area is the island of Babalonica</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">760 BE</div>
+    <div class="details">The city-state of Aria revolts, and is crushed beneath the heel of the Empire of Optila in the Massacre of Yellow Square</div>
+  </div>
+  
+  </div>
+
+  
 <div class="era era-divinity">
   <div class="era-title">  <span class="era-dates">  </span></div>
   <div class="entry">
