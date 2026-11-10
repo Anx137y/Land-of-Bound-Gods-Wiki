@@ -552,7 +552,7 @@ A summarized record of recorded history, compiled from countless sources and rec
 
   
 <div class="era era-seraphim-war">
-  <div class="era-title">The Seraphim's War<span class="era-dates">1080 BE to 760 BE</span></div>
+  <div class="era-title">The Seraphim's Wars<span class="era-dates">1080 BE to 760 BE</span></div>
   <div class="entry">
     <div class="label">1080 BE</div>
     <div class="details">The nation of Valhalk pushes into the ancestral lands of the Goliaths</div>
