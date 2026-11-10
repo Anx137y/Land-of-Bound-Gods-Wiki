@@ -132,7 +132,7 @@ title: World Timeline
   /* Era colors – change these freely */
   .era-creation        { --era-color: #cc9f86; }
   .era-divinity         { --era-color: #f6f2c4; }
-  .era-myth      { --era-color: #6a359a; } 
+  .era-myth      { --era-color: #bc43b6; } 
   .era-man-1             { --era-color: #c57573; }
   .era-succession      { --era-color: #00c7c5; }
   .era-lost          { --era-color: #6d6d6d; }
