@@ -658,7 +658,7 @@ A summarized record of recorded history, compiled from countless sources and rec
 
   <div class="entry">
     <div class="label">840 BE</div>
-    <div class="details">The Githzerai refugees reactive The Cradle, an ancient facility that produces Warforged</div>
+    <div class="details">The Githzerai refugees reactivates The Cradle, an ancient facility that produces Warforged</div>
   </div>
 
   <div class="entry">
