@@ -355,7 +355,7 @@ A summarized record of recorded history, compiled from countless sources and rec
 <div class="era era-lost">
   <div class="era-title">The Lost Millenia<span class="era-dates">10448 BE to 4000 BE</span></div>
   <div class="entry">
-    <div class="details">The traitorous gods are punished</div>
+    <div class="details">The traitorous gods are punished, and the Seraphim are sealed beneath the earth in the far corners of the world</div>
   </div>
 
   <div class="entry">
