@@ -511,12 +511,46 @@ A summarized record of recorded history, compiled from countless sources and rec
     <div class="details">The dragon wing decimates the Kingdom of Espatcha, alongside every other established community in the Great Desert</div>
   </div>
   
-  
-  
-  
   </div>
 
 
+<div class="era era-fear">
+  <div class="era-title">The Age of Fear<span class="era-dates">2650 BE to 1080 BE</span></div>
+  <div class="entry">
+    <div class="label">2600 BE</div>
+    <div class="details">A dragon wing some 3000 dragons strong crosses the Kuitlapanomitl Mountains</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">2550 BE</div>
+    <div class="details">Brital and Estcher unite to fend off the dragons</div>
+    <div class="details">The cities and fields of Brital and Estcher are razed to the ground, but the peoples and governments survive</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">2548 BE</div>
+    <div class="details">The dragons circumvent the Eye of The World, leaving the Empire of Optila unharmed</div>
+  </div>
+
+  <div class="entry">
+    <div class="label">2542 BE</div>
+    <div class="details">Parthenos is able to avoid being destroyed, as the forewarning of the slow-moving dragons let them evacuate into the expansive cave networks beneath the Othrys mountain range</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">2500 BE</div>
+    <div class="details">A culture of fear pervades Phanelar, with nations hesitant to expand, rebuild, or even trade as fears of dragons claim the public mind</div>
+    <div class="details">The Church of Phanes is founded, who quickly spread across Phanelar. Their teachings exacerbate and validate the fears of the public</div>
+  </div>
+  
+  <div class="entry">
+    <div class="label">1100 BE</div>
+    <div class="details">Over a thousand years of peace has left governments disillusioned to the Church's fearmongering, and nations across Phanelar begin to trade and interact once more </div>
+  </div>
+  
+  </div>
+
+  
 <div class="era era-divinity">
   <div class="era-title">  <span class="era-dates">  </span></div>
   <div class="entry">
