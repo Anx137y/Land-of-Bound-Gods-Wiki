@@ -679,6 +679,15 @@ A summarized record of recorded history, compiled from countless sources and rec
   </div>
 
   
+<div class="era era-grand-empire">
+  <div class="era-title">The Age of The Grand Empire<span class="era-dates">760 BE to 400 BE</span></div>
+  <div class="entry">
+    <div class="label">  </div>
+    <div class="details">  </div>
+  </div>
+  </div>
+
+  
 <div class="era era-divinity">
   <div class="era-title">  <span class="era-dates">  </span></div>
   <div class="entry">
@@ -686,6 +695,7 @@ A summarized record of recorded history, compiled from countless sources and rec
     <div class="details">  </div>
   </div>
   </div>
+
 
   
 </div> 
